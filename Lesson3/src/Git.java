@@ -6,5 +6,6 @@ public class Git {
         System.out.println("Привет");
         System.out.println("Пока");
         System.out.println("Пока");
+        System.out.println("Пока");
     }
 }
